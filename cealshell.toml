@@ -1,6 +1,6 @@
 [package]
 version = "0.0.1"                 # required
-rbxm = "dist/BetterCommandLoad.lua"         # required: repo-relative path, or a URL
+rbxm = "dist/BetterCommandLoad.rbxm"         # required: repo-relative path, or a URL
 name = "BetterCommandLoad"                   # optional (defaults to the repo name)
 description = "Load modules from the command bar with ese." # optional
 release_notes = "..."             # optional, shown as the install notes
